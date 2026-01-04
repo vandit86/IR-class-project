@@ -1,3 +1,5 @@
 selenium
 json
 time
+pytest
+pytest-cov
