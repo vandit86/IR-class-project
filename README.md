@@ -48,7 +48,7 @@ Alternatives to Selenium (If you want lighter-weight solutions):
 - Puppeteer (Node.js) - similar to Selenium but lighter
 
 ## Contributing
-Contributions are welcome. Please submit a pull request.
+Contributions are welcome. Check out CONTRIBUTING.md for guidelines.
 
 ## License
 MIT License
