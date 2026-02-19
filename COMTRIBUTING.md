@@ -1,4 +1,4 @@
-# Contributing to DSpace Scraper Project
+# Contributing to Project
 
 ## Overview
 
